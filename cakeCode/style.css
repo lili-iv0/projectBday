@@ -213,7 +213,4 @@ body {
     50% { opacity: 1; }
     100% { opacity: 0; }
 }
-.donna{
-  position: fixed;
-  z-index: 999;
-}
+
